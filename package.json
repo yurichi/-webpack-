@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "pure front demo",
   "scripts": {
-    "test": "null"
+    "start": "webpack-dev-server --inline"
   },
   "author": "vhtml",
   "license": "ISC",
